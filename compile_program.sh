@@ -1,5 +1,7 @@
 #!/bin/bash
-echo -e "\033[32mCompilation Started\033[m"
+echo -e "Compilation Started"
 gcc sum_array_element.c -o build.out
 ls
+echo ">pwd"
+pwd
 #done
