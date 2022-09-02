@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc sum_of_array.c -o build.out
+gcc sum_array_element.c -o build.out
 #done
